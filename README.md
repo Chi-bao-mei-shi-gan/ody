@@ -25,7 +25,8 @@ source ~/.bashrc
 使用 go install 安裝 Ody：
 
 ```sh
-go install https://github.com/Chi-bao-mei-shi-gan/ody@latest
+go install github.com/Chi-bao-mei-shi-gan/ody@latest
+go install github.com/Chi-bao-mei-shi-gan/ody@3996df2
 ```
 
 ## 使用
