@@ -1,3 +1,3 @@
-module 159.138.24.198/temp/ody
+module github.com/Chi-bao-mei-shi-gan/ody
 
 go 1.22.1
